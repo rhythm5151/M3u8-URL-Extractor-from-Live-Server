@@ -1,7 +1,7 @@
 #!/bin/bash
 cd ~/scripts
-httrack -i http://bdiptv.net/
-cd bdiptv.net
+httrack -i http://tv.aliflailabd.com/
+cd tv.aliflailabd.com
 echo "" > IPTV.m3u
 echo "#EXTM3U" >> IPTV.m3u
 i=1
